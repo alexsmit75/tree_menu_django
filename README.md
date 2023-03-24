@@ -20,7 +20,7 @@
 
 
 ### Сборка и запуск:
-git clone https://github.com/ELePhanT1708/tree_menu_django.git
+git clone [https://github.com/alexsmit75/tree_menu_django.git]
 
 cd tree_menu_django
 
